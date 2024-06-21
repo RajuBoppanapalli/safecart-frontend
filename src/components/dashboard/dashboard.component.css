@@ -1,0 +1,71 @@
+
+.dash-head{
+    background-color:#f7f7f7;
+    color: black;
+    text-align: center;
+    height: 100px;
+   
+    padding-top: 30px;
+}
+.dash-person{
+    display: flex;
+    gap: 30px;
+}
+.dash-person-first{
+    margin-top:17px;
+    margin-left: 10px;
+}
+.dash-first{
+    display: flex;
+}.dash-first{
+ 
+    margin: 20px;
+}
+.dash-user{
+    margin-left: 70px;
+}
+.dash-inner{
+    display: flex;
+    gap: 10px;
+   
+}
+.dash-outer{
+    
+    margin-top: 30px;
+    margin-right: 150px;
+
+
+}
+.dash-sub-inner{
+    display: flex;
+    background-color: rgb(34, 32, 32);
+    color: white;
+    width: 300px;
+    position: relative;
+    gap: 70px;
+}
+.dash-details{
+    margin-top: 20px;
+}
+.dash-calender{
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(143, 142, 141);
+    border-radius: 100px;
+padding-left: 20px;
+padding-top: 20px;
+
+}
+.dash-calenderCalendar3{
+    margin-left: 30px;
+
+}
+.dash-table td{
+    border-bottom: 1px solid rgb(182, 179, 179);
+}
+.dash-table{
+    margin-top:30px;
+    height: 500px;
+}

@@ -1,0 +1,24 @@
+
+.terms-head{
+    background-color:#f7f7f7;
+    color: black;
+    text-align: center;
+    height: 100px;
+   
+   
+}
+.terms-head p{
+    color: #999999;
+}
+#welcome{
+    font-size:60px;
+}
+.terms-main{
+    margin-left: 40px;
+}
+.terms-data p{
+    color: #999999;
+    line-height: 30px;
+    font-family: sans-serif;
+    
+}

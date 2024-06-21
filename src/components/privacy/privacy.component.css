@@ -1,0 +1,21 @@
+
+.privacy-head{
+    background-color:#f7f7f7;
+    color: black;
+    text-align: center;
+    height: 100px;
+   
+   
+}
+.privacy-head p{
+    color: #999999;
+}
+.privacy-main{
+    margin-left: 40px;
+}
+.privacy-data p{
+    color: #999999;
+    line-height: 30px;
+    font-family: sans-serif;
+    
+}

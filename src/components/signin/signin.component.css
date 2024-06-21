@@ -1,0 +1,76 @@
+.signin-head{
+    background-color:rgb(249, 250, 240);
+    color: black;
+    text-align: center;
+    height: 130px;
+    line-height: 30px;
+}
+.signpage{
+    margin:50px;
+    margin-left:400px;
+    width: 400px;
+    height: 410px;
+    padding: 10px;
+    background-color:rgb(249, 250, 240) ;
+    border: 1px solid rgb(249, 250, 240);
+    box-shadow: 2px 1px 5px gray;
+    align-items: center;
+    border-radius: 10px;
+ 
+    
+}
+.signpage-head h3{
+ 
+    font-size:25px;
+}
+
+.form-inp input{
+    width:390px;
+    height: 30px;
+}
+.form-inp .btn{
+    width:390px;
+    height: 35px;
+    color: white;
+    font-size: 18px;
+    background-color: #2e4a3a;
+}
+
+
+.form-inp h4{
+  margin-left:160px;
+  font-size: 18px;
+
+}
+
+.form-logs a{
+ text-decoration: none;
+}
+
+
+
+
+.form-ll :hover{
+    border: 1px solid#006045;
+    background-color: #006045;
+    color: white;
+}
+@media screen and (max-width:576px) {
+    .signpage{
+
+        margin:10px;
+        margin-top: 60px;
+        width: 330px;  
+    }
+    .signpage-head h3{
+ 
+        font-size:20px;
+    }
+    .form-inp input{
+        width:300px;
+        height: 30px;
+        
+    }
+    .form-inp button{
+        width:300px;}
+}

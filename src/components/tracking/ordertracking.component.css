@@ -1,0 +1,33 @@
+.order-head{
+    background-color:rgb(250, 247, 247);
+    color: black;
+    text-align: center;
+    height: 130px;
+    line-height: 30px;
+}
+.order-main{
+    display: flex;
+    width: 1000px;
+    margin-top: 20px;
+    margin-left: 80px;
+   
+ 
+}
+.order-tracking{
+  
+    background-color: #d3dbde; 
+    width: 100px;
+    height: 300px;
+ 
+}
+.order-input-div input.tr-btn{
+   
+    width: 200px;
+    height: 35px;
+
+}
+
+.order-img img{
+    width: 400px;
+    height: 400px;
+}

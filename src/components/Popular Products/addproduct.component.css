@@ -1,0 +1,37 @@
+.add-product-head{
+    background-color:rgb(250, 247, 247);
+    color: black;
+    text-align: center;
+    height: 100px;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.addproduct input {
+    width: 400px;
+
+
+}
+.addproduct{
+    width:450px;
+    margin-left: 30%;
+    margin-top: 20px;
+}
+.bn{
+    margin-top:20px;
+      background-color:#006045;
+    margin-bottom: 20px;
+}
+.add{
+  
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-left: 150px;
+}
+.bn:hover{
+    background-color:  #079eda;
+    color: white;
+}
+
+

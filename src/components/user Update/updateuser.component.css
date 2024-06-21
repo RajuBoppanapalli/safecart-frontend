@@ -1,0 +1,39 @@
+.signupdate-head{
+    background-color:#f7f7f7;
+    color: black;
+    text-align: center;
+    height: 130px;
+    line-height: 30px;
+}
+
+.signupdate-page{
+    margin:50px;
+    margin-left:380px;
+    width: 400px;
+    height:350px;
+    padding: 10px;
+    background-color:rgb(249, 250, 240) ;
+    border: 1px solid rgb(249, 250, 240);
+    box-shadow: 2px 1px 5px gray;
+    align-items: center;
+    border-radius: 10px;
+ 
+}
+.forms-group input, .forms-group select{
+    width:390px;
+    height: 30px;
+}
+.updatebutn{
+    width:100px;
+    height: 30px;
+    margin-left: 120px;
+ 
+    color: white;
+    font-size: 13px;
+    background-color: #006045;
+}
+.forms-group a{
+    text-decoration: none;
+    color: #006045;
+    font-weight: 900;
+}

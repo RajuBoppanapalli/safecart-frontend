@@ -1,0 +1,78 @@
+
+.wislist-head{
+    background-color:#f7f7f7;
+    color: black;
+    text-align: center;
+    height: 100px;
+   
+    padding-top: 30px;
+}
+
+.tablebr{
+width: 800px;
+margin-top: 50px;
+margin-left: 20%;
+}
+thead{
+    background-color:#f7f7f7;
+height: 60px;
+}
+
+.wish-img{
+    display: flex;
+    gap: 10px;
+}
+.wish-product-name h3{
+    font-size: 20px;
+}
+.wish-img img{
+    background-color: aliceblue;
+    width: 100px;
+    height: 100px;
+    border-radius:20px;
+}
+.wish-qan{
+    width: fit-content;
+    border: 1px solid gray;
+    display: flex;
+    gap:15px;
+}
+.wish-ut-price h4,.wish-total h4,.wish-qan,.wish-action{
+    margin-left: 20px;
+    color:#006045;
+    font-size: 18px;
+}
+
+.wish-action .trash{
+    width: 60px;
+    height: 30px;
+    gap: 10px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+   
+}
+.wish-action .cart{
+    width: 60px;
+    height: 30px;
+    gap: 10px;
+    background-color:rgb(33, 91, 218);
+    color:white;
+    border: none;
+    border-radius: 5px;
+   
+}
+.btn{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(52, 156, 216);
+    border:1px solid rgb(248, 245, 245);
+}
+.pagination{
+    margin-left: 30%;
+}
+.trash{
+    border: none;
+}
+

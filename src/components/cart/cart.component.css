@@ -1,0 +1,70 @@
+
+.wislist-head{
+    background-color:#f7f7f7;
+    color: black;
+    text-align: center;
+    height: 100px;
+   
+    padding-top: 30px;
+}
+
+.tablebr{
+width: 900px;
+margin-top: 50px;
+margin-left: 10%;
+}
+thead{
+    background-color:#f7f7f7;
+height: 60px;
+}
+
+.wish-img{
+    display: flex;
+    gap: 10px;
+}
+.wish-img img{
+    background-color: aliceblue;
+    width: 150px;
+    height: 150px;
+    border-radius:20px;
+}
+.cart-name h3{
+    font-size: 10px;
+}
+.wish-qan{
+    display: flex;
+}
+.wish-ut-price h4,.wish-total h4,.wish-qan,.wish-action{
+    margin-left: 20px;
+    font-size: 18px;
+    color:#2e4a3a;
+}
+
+
+.wish-qan input{
+    width: 20px;
+    border: none;
+}
+
+
+.wish-action .trash{
+    width: 60px;
+    height: 30px;
+    gap: 10px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+   
+}
+.wish-action .cart{
+    width: 60px;
+    height: 30px;
+    gap: 10px;
+    background-color:rgb(33, 91, 218);
+    color:white;
+    border: none;
+    border-radius: 5px;
+   
+}
+

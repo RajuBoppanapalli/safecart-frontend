@@ -1,0 +1,37 @@
+.footer1{
+    display: flex;
+    background-color: #006045;
+    color: white;
+    position: sticky;
+    margin:5px;
+
+
+}
+
+.footer1 .footertext{
+    margin-inline:30px;
+
+}
+
+.footer1 .footertext .mail{
+display: flex;
+}
+.line{
+    color: black;
+    width: 1100px;
+
+}
+.mail button{
+    background-color: #006045;
+    width: 40px;
+}
+@media screen and (max-width:576px) {
+    
+.footer1 .footertext{
+    margin-inline:30px;
+   
+    padding-right:0px;
+
+}
+
+}

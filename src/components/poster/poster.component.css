@@ -1,0 +1,107 @@
+.poster-main{
+    display: flex;
+    margin:20px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.poster-inner-main{
+    width: 400px;
+    height: 300px;
+}
+.poster-inner-sub{
+    margin-left: 30px;
+}
+.poster-inner-sub2{
+    margin-top: -20px;
+    list-style: none;
+    color: blue;
+
+}
+.poster-inner-sub3 button{
+    width: 130px;
+    height: 40px;
+    margin-left:30px ;
+    background-color: blue;
+    border: none;
+    color: white;
+    margin-top:-10px;
+    border-radius: 10px;
+
+}
+.poster-inner-sub h1{
+    font-size: 50px;
+    color: blue;
+    font-weight: bold; 
+}
+.poster-inner-sub p{
+    margin-top: -25px;
+    font-size: 35px;
+    color: blue;
+}
+.poster-main-one{
+    display: flex;
+    width: 600px;
+    height: 450px;
+    background-color: rgb(195, 228, 224);
+    border-radius: 5px;  
+}
+.poster-main-one img{
+    margin-left:10px;
+    margin-top: 50px;
+    width: 300px;
+    height: 400px;
+}
+
+.poster-main-two{
+    display: flex;
+    height:220px;
+    width: 450px;
+    margin-top: 10px;
+    background-color: rgb(243, 202, 229);
+    border-radius: 5px;
+}
+.poster-main-two img{
+    width:200px;
+    height: 220px;
+}
+.poster-main-two button{
+    height: 40px;
+    width: 130px;
+    background-color: blue;
+    border: none;
+    color: white;
+    margin-top:-10px;
+    border-radius: 10px; 
+}
+.poster-main-three{
+    display: flex;
+    height:220px;
+    width: 450px;
+    margin-top: 10px;
+    background-color: rgb(248, 243, 149);
+    border-radius: 5px;
+}
+.poster-main2-sub1{
+    font-size:18px;
+    width: 220px;
+    margin-left: 20px;  
+}
+.poster-main-three img{
+   margin-left: 20px; 
+    width:200px;
+    height: 220px;
+}
+.poster-main2-sub2 h3{
+   font-size: 22px;
+   margin-left:30px;
+}
+.poster-main-three button{
+  width: 130px;
+    height: 40px;
+    margin-left:30px ;
+    background-color: rgb(35, 35, 36);
+    border: none;
+    color: white;
+    margin-top:-10px;
+    border-radius: 10px;
+}

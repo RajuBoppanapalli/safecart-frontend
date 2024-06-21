@@ -1,0 +1,149 @@
+
+.about-head{
+    background-color:rgb(250, 247, 247);
+    color: black;
+    text-align: center;
+    height: 130px;
+    line-height: 30px;
+}
+.about-post1{
+    display: flex;
+    margin: 80px;
+}
+.about-text h2{
+    font-size: 35px;
+    line-height: 40px;
+}
+.about-text p{
+    color: rgb(103, 104, 105);
+    line-height: 30px;
+}
+.about-poster1-img{
+    margin-top: 30px;
+}
+.about-poster2{
+    display: flex;
+    margin: 80px;
+}
+.about-poster2-text{
+    margin-top: -30px;
+}
+.about-poster2-text h2{
+    font-size:35px;
+    line-height: 40px;
+}
+.about-poster2-text p{
+    color: rgb(103, 104, 105);
+    line-height: 30px;
+}
+.about-poster3{
+    margin: 80px;
+}
+.about-icons-1{
+    display: flex;
+}
+.cont h4{
+font-size: 18px;
+}
+
+
+
+
+.card{
+    margin: 70px;
+  
+
+}
+.slic-skid{
+    background-color: #2e4a3a;
+    color: white;
+    border-radius: 10px;
+    width:200px;
+    height: 300px;
+}
+.slic-skid p{
+    padding-left: 10px;
+    align-items: center; 
+    color: black;
+}
+.slic-skid h3{
+    color: black;
+}
+
+.second-slick{
+    width:390px;
+    height:180px;
+    
+    background-color: aliceblue;
+}
+.second-slick img{
+    margin-left: 150px;
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+}
+.third-slick h3{
+   margin-left: 150px;
+}
+.third-slick p{
+    margin-left: 100px;
+ }
+ .slic-skid .content{
+    color: aliceblue;
+ }
+ @media screen and (max-width:576px) {
+    .about-post1{
+        display: flex;
+        margin-top: 60px;
+        margin:10px;
+        
+    }
+   
+    .about-poster1-img img{
+   
+       width:330px;
+       height: 450px;
+     
+    }
+    .about-poster2{
+        display: flex;
+        margin:10px;
+    }
+ 
+    .about-poster2-img img{
+        width:330px;
+        height: 450px;
+    }
+    .about-poster2-text{
+        margin-top:30px;
+    }
+    .about-poster3{
+        margin: 10px;
+    }
+    
+    .about-poster3-img img{
+        width:330px;
+        height: 450px;
+    }
+    
+.card{
+    margin:30px;
+  
+
+}
+    .second-slick img{
+        margin-left: 80px;
+      
+    }
+    .third-slick h3{
+        margin-left: 80px;
+     }
+     .third-slick p{
+         margin-left: 40px;
+      }
+    
+ }
+
+
+
+

@@ -1,0 +1,159 @@
+.banner{
+    display: flex;
+    gap:20px;
+    margin: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
+   
+  
+}
+.banner-1{
+    width: 100px;
+    height: 300px;
+
+   
+ 
+    border-radius: 10px;
+    display: flex;
+    background-color: #62cdff;
+}
+.banner-text{
+    width: 200px;
+    height:150px;
+
+}
+.banner-text button{
+    background-color: #f4f300;
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.banner-1 img{
+    width:200px;
+    height:209px;
+}
+
+.banner-2{
+   
+    border-radius: 10px;
+   background-color: #f4f300 ;
+
+ 
+}
+.banner-2 img{
+    width:280px;
+    height:180px;
+    margin-left:50px;
+}
+
+.carousel-item{
+    width:950px;
+    height: 550px;
+    margin: 140px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #62cdff;
+    display: flex;
+   
+    border-radius: 10px;
+}
+
+
+.carousel-text{
+    width: 450px;
+    height: 400px;
+   margin: 20px;
+   padding-right: 60px;
+ 
+    
+}
+.carousel-text h4{
+    font-size: 20px;
+    height: fit-content;
+    width: fit-content;
+    font-weight: bold;
+   
+}
+.carousel-text h2{
+    height: fit-content;
+    width: fit-content;
+    font-size: 50px;
+    
+   
+}
+.carousel-text button{
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(3, 3, 14);
+    margin-right: 300px;
+    margin-bottom: 50px;
+    color: white;
+    font-size: 15px;
+
+
+}
+.carousel-item img{
+    width: 400px;
+    margin-left: 60px;
+    height:550px;
+    
+}
+@media screen and (max-width:576px) {
+    .banner{
+        gap:5px;
+    margin:10px;
+    
+
+    }
+    .banner-1{
+      margin: 10px;
+    }
+    .banner-1 img{
+        width:150px;
+        height:159px;
+    }
+    .banner-2{
+        margin: 10px;
+
+    }
+    .carousel-item{
+       width:300px;
+       height:640px;
+        padding: 10px;
+        margin: 20px;
+        border-radius: 10px;
+    
+    }
+    .carousel-text{
+    width:250px;
+    height:300px;
+     padding: 0px;
+     margin: 0px;
+
+     
+    }
+    .carousel-text h4{
+        font-size:18px;
+        font-weight: bold;
+      
+        
+    }
+    .carousel-text h2{
+      width: fit-content;
+        font-size: 30px;
+       
+       
+    }
+   
+
+    .carousel-item img{
+        margin-top:250px;
+      margin-left: -190px;
+        width: 250px;
+        height:400px;
+    }
+}
+
